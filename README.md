@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek!</h1>
-<h3 align="center">Master's student in Data Science,  A passionate AI enthusiast with a solid foundation in data science and machine learning, seeking to leverage
- my expertise in building and deploying scalable AI models to solve complex problems in a dynamic
- tech-driven environment.</h3>
+<h3 align="center">
+Faculty in Data Science | AI Enthusiast | Mentor
+<br>
+Passionate about solving real-world challenges with intelligent systems and data-driven applications. I blend academic rigor and hands-on AI engineering — building, deploying, and mentoring students on scalable machine learning solutions. My expertise covers NLP, generative AI, LangChain, RAG pipelines, and end-to-end analytics workflows using Python, SQL, PySpark, and FastAPI.
+<br>
+Always eager to connect, collaborate, and contribute to impactful projects in the AI/data ecosystem.
+</h3>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=datascientistabhishek&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
