@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abhishek!</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Singh!</h1>
 <h3 align="center">
-Faculty in Data Science | AI Enthusiast | Mentor
+AI Engineer | Generative AI | Agentic AI | RAG Systems
 <br>
-Passionate about solving real-world challenges with intelligent systems and data-driven applications. I blend academic rigor and hands-on AI engineering — building, deploying, and mentoring students on scalable machine learning solutions. My expertise covers NLP, generative AI, LangChain, RAG pipelines, and end-to-end analytics workflows using Python, SQL, PySpark, and FastAPI.
+Passionate about building intelligent AI systems and solving real-world business problems through Generative AI, Large Language Models (LLMs), Agentic AI, and Retrieval-Augmented Generation (RAG). I specialize in designing and deploying AI-powered applications, multi-agent workflows, semantic search systems, and scalable backend services using Python, LangChain, LangGraph, FastAPI, AWS, Docker, and modern AI frameworks.
 <br>
-Always eager to connect, collaborate, and contribute to impactful projects in the AI/data ecosystem.
+I hold an M.Sc. in Data Science from IIIT Lucknow and have a strong foundation in Machine Learning, Deep Learning, NLP, Statistics, and Applied Mathematics. Along with industry experience, I have mentored and taught Data Science, Machine Learning, and AI concepts, helping bridge the gap between theory and real-world applications.
+<br>
+Always eager to connect, collaborate, and contribute to impactful AI products, innovative technology solutions, and the evolving AI ecosystem.
 </h3>
 
 
