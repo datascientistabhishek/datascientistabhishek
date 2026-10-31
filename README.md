@@ -1,118 +1,114 @@
-<h1 align="center">Hi 👋, I'm Abhishek Singh!</h1>
-<h3 align="center">
-AI Engineer | Generative AI | Agentic AI | RAG Systems
-<br>
-Passionate about building intelligent AI systems and solving real-world business problems through Generative AI, Large Language Models (LLMs), Agentic AI, and Retrieval-Augmented Generation (RAG). I specialize in designing and deploying AI-powered applications, multi-agent workflows, semantic search systems, and scalable backend services using Python, LangChain, LangGraph, FastAPI, AWS, Docker, and modern AI frameworks.
-<br>
-I hold an M.Sc. in Data Science from IIIT Lucknow and have a strong foundation in Machine Learning, Deep Learning, NLP, Statistics, and Applied Mathematics. Along with industry experience, I have mentored and taught Data Science, Machine Learning, and AI concepts, helping bridge the gap between theory and real-world applications.
-<br>
-Always eager to connect, collaborate, and contribute to impactful AI products, innovative technology solutions, and the evolving AI ecosystem.
-</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 
+<h3 align="center">AI Engineer · Generative AI · RAG · Agentic AI</h3>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=datascientistabhishek&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<!--<p align="left"> <a href="https://twitter.com/Adityak22723056" target="blank"><img src="https://img.shields.io/twitter/follow/Adityak22723056?logo=twitter&style=for-the-badge" alt="Adityak22723056" /></a> </p> -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <!--<a href="https://twitter.com/Adityak22723056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter" height="30" width="40" /></a> -->
-    <a href="https://linkedin.com/in/abhi2612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_username" height="30" width="40" /></a>
-    <a href="https://kaggle.com/abhishek9792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your_username" height="30" width="40" /></a>
-    <a href="https://instagram.com/abhishek_singhh65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_username" height="30" width="40" /></a>
-    <!--<a href="https://www.leetcode.com/_aadi_anant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your_username" height="30" width="40" /></a> -->
+<p align="center">
+  <a href="https://linkedin.com/in/abhi2612"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:abhisheksinghh2612@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://kaggle.com/abhishek9792"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
-
-
-## Languages and Tools 
-<div>
-
-### Languages:
-| Python3 | C | C++ |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  |
-
-  
-
-### Best frameworks and main libraries for Python3:
-
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
-|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
-
-
-
-### My tools for Data Manipulation:
-
-| Conda | Jupyter | Spark | MySQL | Postgres | SQLite |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
-
-
-
-  
-### Environments, Testing, Other:
-
-| Git | Docker | Pytest | Postman | Virtual Box|
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>|
-
-
-
-
-
-### A non-technological resource which is slated for imminent revision.:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  ]
-</div>
-
-
-<h3 align="left">Academic Coursework:</h3>
-<p align="left"> 
-    - Data Structures and Algorithms <br>
-    - Big Data  <br>
-    - Machine Learning <br>
-    - Deep Learning <br>
-    - 
-</p>
-
-
-<!--
 ---
 
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Adityak8340&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+## 🧑‍💻 About Me
 
+I'm an **AI Engineer at Incanus Technologies**, based in **Pune**, where I build LLM-based systems for an AI-powered exam management platform — **RAG pipelines**, **automated question paper generation**, and **semantic grading**.
+
+I enjoy taking AI from idea to working product: designing retrieval pipelines, orchestrating multi-step agent workflows with **LangGraph**, and shipping them behind clean **FastAPI** services.
+
+- 🎓 **M.Sc. in Data Science** — IIIT Lucknow
+- 🤖 Working on **LLMs, RAG, agentic workflows, computer vision and deep learning**
+- 👨‍🏫 Alongside engineering, I teach and mentor **AI and Data Science** (ADYPU Pune, FacePrep) and have mentored **100+ learners**
+- 📫 Reach me at **abhisheksinghh2612@gmail.com**
 
 ---
--->
 
+## 🚀 Featured Projects
 
+### 🎬 [Multi-Modal Compliance Orchestration Engine](https://github.com/datascientistabhishek/MultiModal-Compliance-Engine)
+An AI system that audits **YouTube video ads** for brand and platform compliance.
+- Extracts the transcript and on-screen text (OCR) from a video with **Azure Video Indexer**
+- Retrieves the relevant rules from guideline documents indexed in **Azure AI Search** (RAG)
+- **Azure OpenAI (GPT-4o)** audits the content and returns a **PASS / FAIL report** with each issue's category, severity and description
+- Orchestrated as a **LangGraph** workflow, served through a **FastAPI** `/audit` endpoint, with **LangSmith** and **Azure Monitor (OpenTelemetry)** for tracing
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=datascientistabhishek&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datascientistabhishek&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
+`Python` `LangGraph` `FastAPI` `Azure OpenAI` `Azure AI Search` `Azure Video Indexer` `Docker`
 
+### 👄 [Lip Reading AI](https://github.com/datascientistabhishek/Lip-Reading-AI-model)
+A deep learning model that predicts spoken sentences from **silent video**, using only lip movements.
+- **CNN + BiLSTM + CTC loss** architecture in **PyTorch**, trained on the **GRID corpus** (20 speakers)
+- On 5 **unseen speakers**, fine-tuning cut the **Word Error Rate from 0.44 to 0.13** (CER 0.21 → 0.05)
+- Full pipeline: OpenCV / ffmpeg preprocessing → training → fine-tuning → evaluation → **Streamlit** app
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=datascientistabhishek&style=for-the-badge&color=orange" alt=""/>
-</div>
+`Python` `PyTorch` `OpenCV` `Deep Learning` `Streamlit`
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
--->
+### 🧠 [Face Recognition Platform with AI Q&A](https://github.com/datascientistabhishek/Face-recognition_platform)
+A browser-based platform that registers faces from a webcam and recognises **multiple faces in real time**.
+- **React** frontend and a **Node.js WebSocket** server that streams frames to Python microservices
+- **FastAPI** face-recognition service built on **OpenCV**, with face data stored in **SQLite**
+- RAG chat assistant (**LangChain + FAISS + Gemini**) that answers questions about registered users
+
+`React` `Node.js` `WebSockets` `FastAPI` `OpenCV` `LangChain` `FAISS` `Gemini`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Generative AI & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-191919?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square)
+
+**Machine Learning & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Backend, Cloud & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Data & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+<p align="center"><i>Open to conversations about AI engineering, GenAI and Data Science roles — feel free to reach out!</i></p>
