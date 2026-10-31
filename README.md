@@ -12,7 +12,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **AI Engineer at Incanus Technologies**, based in **Pune**, where I build LLM-based systems for an AI-powered exam management platform — **RAG pipelines**, **automated question paper generation**, and **semantic grading**.
+I'm an **AI Engineer at Incanus Technologies**, based in **Pune**, where I build GenAI systems for education:
+
+- 💬 **Lecture-grounded RAG chatbot** (LangChain, Whisper, vector DB) that answers student doubts *only* from lecture content, with timestamp links to the exact video moment — **97% grounded answers** across 500+ test queries, with a safe fallback for out-of-scope questions
+- 📝 **Multi-agent AI grading workflows** in n8n (extractor → grader → validator) that grade descriptive answers against faculty rubrics — cut evaluation time from **15 to 4 min per paper (~73%)**, saving **25+ faculty hours per exam cycle**
+- ✅ Built for trust: rubric-constrained prompts, schema-validated outputs, PII redaction and confidence-based routing to human review — **90% agreement with faculty grades**, with every grading decision logged and auditable
 
 I enjoy taking AI from idea to working product: designing retrieval pipelines, orchestrating multi-step agent workflows with **LangGraph**, and shipping them behind clean **FastAPI** services.
 
